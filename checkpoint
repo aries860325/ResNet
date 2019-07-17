@@ -1,0 +1,2 @@
+model_checkpoint_path: "tf_resnet_model_iter15001.ckpt"
+all_model_checkpoint_paths: "tf_resnet_model_iter15001.ckpt"
